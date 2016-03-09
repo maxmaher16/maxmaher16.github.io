@@ -6,8 +6,8 @@ img {
   border-radius: 5px;
 }
 
-.title {
-  text-align: left;
+a {
+  text-align: right;
   font-size: 40pt
 }
 
